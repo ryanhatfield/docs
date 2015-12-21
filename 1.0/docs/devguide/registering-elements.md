@@ -299,7 +299,7 @@ Example:
 
         hostAttributes: {
           'string-attribute': 'Value',
-          'boolean-attribute': true
+          'boolean-attribute': true,
           tabindex: 0
         }
 
